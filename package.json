@@ -7,7 +7,7 @@
 	"dependencies": {
 		"express": "^4.14.0",
 		"heroku": "^7.51.0",
-		"helmet": "^3.14.0"
+		"moment": "MAJOR.MINOR.PATCH"
 	},
 	"main": "server.js",
 	"scripts": {
