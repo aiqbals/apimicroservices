@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
+	"license": "Hqoue",
 	"package": "MAJOR.MINOR.PATCH",
 	"author": "Asif Iqbal",
 	"description": "A project to better understand package.json",
@@ -21,6 +22,5 @@
 		"package.json",
 		"kyeword",
 		"freecodecamp"
-	],
-	"license": "MIT"
+	]
 }
