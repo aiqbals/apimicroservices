@@ -6,7 +6,7 @@
 	"dependencies": {
 		"express": "^4.14.0",
 		"heroku": "^7.51.0",
-		"moment": "2.14.0"
+		"moment": "^2.29.1"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,6 +16,10 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": [ "package.json", "kyeword", "freecodecamp" ],
+	"keywords": [
+		"package.json",
+		"kyeword",
+		"freecodecamp"
+	],
 	"license": "MIT"
 }
