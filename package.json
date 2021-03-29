@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"version": "1.2.0",
+	"version": "1",
 	"author": "Asif Iqbal",
 	"description": "A project to better understand package.json",
 	"dependencies": {
