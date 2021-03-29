@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Asif Iqbal",
+	"description": "A project to better understand package.json",
 	"dependencies": {
 		"express": "^4.14.0",
 		"heroku": "^7.51.0"
